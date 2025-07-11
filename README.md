@@ -104,3 +104,11 @@ Ensure these files are available:
 Just upload all the required files and run the notebook line by line. The 10th frame will be shown as a preview, and the processed video will be available in MP4 format.
 
 ---
+
+
+## 🔗 Download Model Files
+
+Due to GitHub size limits, you can download these files from the official sources:
+
+- [yolov3.weights](https://pjreddie.com/media/files/yolov3.weights)
+- [yolov3.cfg](https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg)
